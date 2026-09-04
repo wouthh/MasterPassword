@@ -1,3 +1,12 @@
+> [!IMPORTANT]
+> **Imported historical mirror**
+>
+> This repository is an imported mirror of the upstream Master Password project. Wout did not author the upstream project, and this mirror is not maintained here.
+>
+> Bundled binaries, generated artifacts, and screenshots have not been revalidated and are not recommended as a current distribution. Consult the [current official Spectre project](https://gitlab.com/spectre.app) for maintained upstream information.
+>
+> GitHub Pages publication for this mirror has been disabled. The repository itself remains public: its tracked files and history are still accessible. Archiving it later would change only its presentation and maintenance status; restricting continued public access would require a separate deletion or visibility decision.
+
 # [Master Password •••|](http://masterpassword.app)
 
 Master Password is a completely new way of thinking about passwords.

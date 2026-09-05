@@ -5,7 +5,7 @@
 >
 > Bundled binaries, generated artifacts, and screenshots have not been revalidated and are not recommended as a current distribution. Consult the [current official Spectre project](https://gitlab.com/spectre.app) for maintained upstream information.
 >
-> GitHub Pages publication for this mirror has been disabled. The repository itself remains public: its tracked files and history are still accessible. Archiving it later would change only its presentation and maintenance status; restricting continued public access would require a separate deletion or visibility decision.
+> GitHub Pages publication for this mirror has been disabled. The repository itself remains public: its tracked files and history are still accessible. Archiving makes the repository read-only; it does not remove public content. Restricting continued public access would require a separate deletion or visibility decision.
 
 # [Master Password •••|](http://masterpassword.app)
 
